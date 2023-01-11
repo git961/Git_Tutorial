@@ -6,5 +6,10 @@ int main(void)
 	printf("Hello Git World!!\n");
 	printf("Hello Git World!!\n");
 	printf("Hello Git World!!\n");
+
+	for (i = 1; i < 5; i++) {
+		printf("š\n");
+	}
+
 	return 0;
 }
