@@ -3,8 +3,8 @@
 int main(void)
 {
 	printf("Hello Git World!!\n");
-
-	printf("Ç®ï†Ç∑Ç¢ÇΩêl\n");
-
+	printf("Hello Git World!!\n");
+	printf("Hello Git World!!\n");
+	printf("Hello Git World!!\n");
 	return 0;
 }
