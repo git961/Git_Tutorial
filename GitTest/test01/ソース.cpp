@@ -11,5 +11,6 @@ int main(void)
 		printf("š\n");
 	}
 
+	printf("Hello Hello!!\n");
 	return 0;
 }
